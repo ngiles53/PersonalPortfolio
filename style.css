@@ -1,6 +1,15 @@
 .center-text{
 	text-align: center;
 }
-.blue-text  p {
-	color: #030;
+
+
+.background{
+	background-color: #e5fbf0;
+}
+
+table {margin: 0 auto;}
+
+
+.font{
+	font-size: 20px; 
 }
